@@ -1,0 +1,41 @@
+Novidade! Atalhos do teclado … Os atalhos de teclado do Drive foram atualizados para oferecer navegação por letras iniciais
+body{
+    background: rgb(76, 45, 255);
+    color: rgb(255, 255, 255);
+    margin: 0px;
+    font-family: "SUSE" , sans-serif;
+}
+header{
+    border-bottom: solid 3px white;
+    padding: 20px;
+    font-size: 35px;
+    background: rgb(0, 45, 82);
+}
+section{
+display: flex;
+padding-top: 80px;
+padding-bottom: 80px;
+background: rgb(0, 2, 110);
+justify-content: center;
+
+}
+.titulo-video{
+    margin-right: 5%;
+    font-size: 20px;
+}
+
+img{
+    height: 125px;
+}
+
+.categoria-videos{
+    display: flex;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+img categoria-videos{
+    gap: 20px;
+    overflow-x: auto;
+}
